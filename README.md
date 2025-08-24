@@ -47,7 +47,7 @@ Interact with the sliders and buttons to explore object motion, hologram reconst
 Outputs generated:
 https://github.com/FuseiniAlhassan/RELATIVITY-IN-HOLOGRAMS/blob/main/hologram_snapshot.png
 
-
+hologram_animation.gif
 
 hologram_snapshot.png  snapshot of the current figure
 
