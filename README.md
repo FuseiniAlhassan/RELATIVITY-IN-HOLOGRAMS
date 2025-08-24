@@ -1,20 +1,21 @@
 # RELATIVITY-IN-HOLOGRAMS
 
 A Python project to simulate holographic reconstruction of relativistic objects, combining optics, quantum effects, and special relativity. The project generates dynamic holograms, reconstructs 3D object fields, and visualizes entanglement metrics in real-time.
+
 🌀 **Fun fact:** To me, coding feels like wave interference, sometimes constructive, sometimes destructive but physics is always the best lens to reveal the hidden beauty of the universe.
-Features
+**Features:**
 
 3D Object Simulation: Sphere, Torus, and Hypercube objects in rest and moving frames.
 
-Relativistic Effects: Lorentz transformations, length contraction, and Doppler-shifted quantum phases.
+**Relativistic Effects:** Lorentz transformations, length contraction, and Doppler-shifted quantum phases.
 
-Hologram Generation: Computes interference patterns including material response and polarization.
+**Hologram Generation**: Computes interference patterns including material response and polarization.
 
 Reconstruction: Simulates wave propagation and reconstructs 3D object fields from holograms.
 
 Quantum Metrics: Computes entanglement entropy for the simulated objects.
 
-Interactive Visualization:
+**Interactive Visualization**:
 
 Sliders for velocity (β = v/c) and reconstruction distance.
 
@@ -26,25 +27,17 @@ Output: Saves snapshots and animations automatically.
 
 Installation
 
-Clone the repository:
-
-
 Install required packages (Python 3.9+ recommended):
 
 pip install numpy matplotlib scipy
 # Optional GPU acceleration
 pip install cupy
 
-Usage
-
-Run the main simulation:
-
-python "Relativity in Holography.py"
-
+**Usage** **Run the main simulation** python "Relativity in Holography.py"
 
 Interact with the sliders and buttons to explore object motion, hologram reconstruction, and quantum metrics.
 
-Outputs generated:
+**Preview of output**:
 ![Holography Animation](hologram_animation.gif)
 
 ![Static Hologram](hologram_snapshot.png)
