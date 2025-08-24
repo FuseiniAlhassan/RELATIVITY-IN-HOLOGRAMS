@@ -45,6 +45,7 @@ python "Relativity in Holography.py"
 Interact with the sliders and buttons to explore object motion, hologram reconstruction, and quantum metrics.
 
 Outputs generated:
+https://github.com/FuseiniAlhassan/RELATIVITY-IN-HOLOGRAMS/blob/main/hologram_snapshot.png
 
 
 
