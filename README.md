@@ -2,6 +2,9 @@
 
 A Python project to simulate holographic reconstruction of relativistic objects, combining optics, quantum effects, and special relativity. The project generates dynamic holograms, reconstructs 3D object fields, and visualizes entanglement metrics in real-time.
 
+![Holography Animation](hologram_animation.gif)
+
+
 🌀 **Fun fact:** To me, coding feels like wave interference, sometimes constructive, sometimes destructive but physics is always the best lens to reveal the hidden beauty of the universe.
 ## Abstract
 We introduce an interactive, GPU-accelerated framework for real-time visualization of relativistic and quantum-informed holography. Our tool constructs point-cloud representations of canonical shapes (hypercube, spacetime torus, sphere) and applies full Lorentz transformations incorporating length contraction and Doppler-shifted quantum phases—to simulate their appearance in a moving reference frame. These transformed objects generate a phase-encoded hologram via angular spectrum propagation, which is then digitally reconstructed at user-defined distances. Eight synchronized panels display 3D rest- and moving-frame views, hologram intensity, reconstructed wavefront, Fourier spectrum, spacetime correlations, quantum phase maps, and entanglement entropy metrics. Responsive sliders for β = v/c and reconstruction distance, along with shape selectors and animation controls, deliver an immersive exploratory environment. By seamlessly integrating relativistic kinematics, quantum phase dynamics, and holographic imaging backed by optional CuPy GPU acceleration this project offers a powerful research and teaching platform for photonics, quantum information science, and high-energy optics.
@@ -28,17 +31,13 @@ We introduce an interactive, GPU-accelerated framework for real-time visualizati
 ## 7. 	Open-Source Innovation
 • **MIT:** licensed codebase invites community contributions, fostering collaboration at the intersection of computational physics and scientific visualization.
 • Readily adaptable for simulation studies in biomedical optics, remote sensing, and quantum communication.
-By unifying relativistic kinematics, quantum phase dynamics, and holographic reconstruction within a single, interactive application, this project exemplifies the next generation of computational imaging platforms—ideal for both cutting-edge research and immersive pedagogy.
+By unifying relativistic kinematics, quantum phase dynamics, and holographic reconstruction within a single, interactive application, this project exemplifies the next generation of computational imaging platforms ideal for both cutting-edge research and immersive pedagogy.
 
 **Preview of output**:
-![Holography Animation](hologram_animation.gif)
 
 ![Static Hologram](hologram_snapshot.png)
 
 # 🌌 Interactive Relativistic Holography & Quantum Phase Visualizer
-
-## Abstract
-This project delivers an advanced, GPU-accelerated framework for real-time visualization of relativistic and quantum-informed holography. Canonical shapes (hypercube, spacetime torus, sphere) are Lorentz-transformed—incorporating length contraction and Doppler-shifted quantum phases—to simulate their appearance in a moving frame. These dynamic objects generate a phase-encoded hologram via angular-spectrum propagation, which is digitally reconstructed at user-defined distances. Eight synchronized panels display 3D rest- and moving-frame views, hologram intensity, reconstructed wavefront, Fourier spectrum, spacetime correlations, quantum phase maps, and entanglement entropy. Responsive sliders (β=v/c, reconstruction distance), shape selectors, and animation controls deliver an immersive exploratory environment. Optional CuPy GPU acceleration ensures smooth interactivity. This tool bridges relativistic kinematics, quantum phase dynamics, and holographic imaging—ideal for graduate-level research and teaching in photonics, quantum information science, and high-energy optics.
 
 
 ## Project Overview
@@ -89,22 +88,8 @@ This tool showcases advanced competencies in:
 • 	Designing real-time, interactive simulations for theoretical exploration
 • 	Developing holographic imaging and inverse reconstruction algorithms
 • 	Leveraging GPU acceleration for scalable scientific tools
-It serves as a robust platform for graduate research in computational optics, quantum information, and high-energy photonics.
-
-Author
+## Author
 Developed by Alhassan Kpahambang Fuseini
 
-License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute with proper attribution.
-
-**Future Work**
-
-Incorporate more complex shapes and materials.
-
-Integration with deep learning for improved hologram reconstruction.
-
-Extend to simulate optical cloaking or invisibility effects.
-
 ## License
-
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute with proper attribution.
